@@ -1,4 +1,4 @@
 # git-hello-world
 
-test windows haha
+test window
 hello
