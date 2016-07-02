@@ -1,4 +1,3 @@
 # git-hello-world
 
-test one two
-hello
+test one two threehello
