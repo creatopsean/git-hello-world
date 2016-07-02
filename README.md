@@ -1,4 +1,4 @@
 # git-hello-world
 
-test one
+test one two
 hello
